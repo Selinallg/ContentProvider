@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">statLibrary</string>
+    <string name="proxy_ip">192.168.10.202</string>
+    <string name="ONLINE_URL">http://noloservertest.nolovr.com:8088/nolohome/sdk/uploadSdkFile</string>
+    <string name="DEBUG_URL">http://noloservertest.nolovr.com:8088/nolohome/sdk/uploadSdkFile</string>
+    <string name="sdkVersion">SDK_VERSION_NAME</string>
+    <string name="sdkVersionCode">SDK_CODE</string>
+</resources>
